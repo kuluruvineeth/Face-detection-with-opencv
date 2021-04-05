@@ -24,3 +24,7 @@ As Classifier Cascade face detection algorithm is provided in [OpenCV library](h
  * [opencv](https://pypi.org/project/opencv-python/)
  * [haarcascade frontalface default](https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcascade_frontalface_default.xml)
 
+## Conclusion
+The results are not that perfect but perhaps better results can be achieved with further tuning after many hit and trial methods
+
+
