@@ -8,7 +8,7 @@ In the above paper,effective features and range of very simple or weak features 
 
 As Classifier Cascade face detection algorithm is provided in [OpenCV library](https://opencv.org/) i used this library to detect face in the photograph.
 
-## Images used :
+## Images used 
 1. **single face image**
    ![my image](https://github.com/kuluruvineeth/Face-detection-with-opencv/blob/main/test1.jpg)
    
@@ -16,11 +16,11 @@ As Classifier Cascade face detection algorithm is provided in [OpenCV library](h
    ![Group photo extracted from internet](https://github.com/kuluruvineeth/Face-detection-with-opencv/blob/main/test2.jpg)
    
    
- ## Result after processing : 
+ ## Result after processing  
  1. ![transformed image1](https://github.com/kuluruvineeth/Face-detection-with-opencv/blob/main/f_test1.jpg)
  2. ![transformed image2](https://github.com/kuluruvineeth/Face-detection-with-opencv/blob/main/f_test2.jpg)
  
  ## Requirements
- * opencv
+ * [opencv](https://pypi.org/project/opencv-python/)
  * [haarcascade frontalface default](https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcascade_frontalface_default.xml)
 
