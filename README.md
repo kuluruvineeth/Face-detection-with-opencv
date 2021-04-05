@@ -17,7 +17,7 @@ As Classifier Cascade face detection algorithm is provided in [OpenCV library](h
    
    
  ## Result after processing : 
- 1. [transformed image1](https://github.com/kuluruvineeth/Face-detection-with-opencv/blob/main/f_test1.jpg)
- 2. [transformed image2](https://github.com/kuluruvineeth/Face-detection-with-opencv/blob/main/f_test2.jpg)
+ 1. ![transformed image1](https://github.com/kuluruvineeth/Face-detection-with-opencv/blob/main/f_test1.jpg)
+ 2. ![transformed image2](https://github.com/kuluruvineeth/Face-detection-with-opencv/blob/main/f_test2.jpg)
  
 
